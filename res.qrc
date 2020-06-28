@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bu.png</file>
+        <file>bac.jpg</file>
+        <file>scene.png</file>
+        <file>losebac.png</file>
+        <file>winbac.jpg</file>
+    </qresource>
+    <qresource prefix="/tower">
+        <file>init.png</file>
+        <file>archer2.png</file>
+        <file>cannon2.png</file>
+        <file>knight2.png</file>
+        <file>wizard2.png</file>
+        <file>archer1.png</file>
+        <file>cannon1.png</file>
+        <file>knight1.png</file>
+        <file>wizard1.png</file>
+        <file>knight3.png</file>
+        <file>wizard3.png</file>
+        <file>archer3.png</file>
+        <file>cannon3.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>callon.png</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>normal.png</file>
+        <file>rifleman.png</file>
+        <file>master.png</file>
+        <file>knight.png</file>
+    </qresource>
+    <qresource prefix="/bullet">
+        <file>bullet1.png</file>
+        <file>bullet3.png</file>
+        <file>bullet2.png</file>
+        <file>bullet4.png</file>
+    </qresource>
+    <qresource prefix="/bgm">
+        <file>gamebgm.mp3</file>
+        <file>lose.mp3</file>
+    </qresource>
+    <qresource prefix="/introduction">
+        <file>enemyintro.png</file>
+        <file>enemyintr.png</file>
+        <file>towerintr.png</file>
+        <file>towerintro.png</file>
+        <file>back.png</file>
+    </qresource>
+</RCC>
